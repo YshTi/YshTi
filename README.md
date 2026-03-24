@@ -45,7 +45,7 @@ The project includes interactive UI components, structured application logic, an
 
 ---
 
-### [Coffee Shop](https://github.com/YshTi/Team_Project_Coffee_Shop)
+### [Coffee Shop](https://github.com/YshTi/Coffe-Shop-Website)
 A responsive team project for a coffee shop website, created with attention to clean layout, visual presentation, and usability.  
 This project reflects collaborative frontend development and implementation of modern web design principles.
 
