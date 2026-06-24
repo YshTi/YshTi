@@ -91,7 +91,7 @@ The project includes reusable UI components, adaptive navigation, a modal contac
 A web application focused on animal adoption, built as a JavaScript team project.  
 The project includes interactive UI components, structured application logic, and responsive design to provide a smooth user experience.
 
-**Live Demo:** [Animal Adoption]([https://state-authorities-app-1.onrender.com/](https://yshti.github.io/Group_Project_JS_Animal_Adoption/))
+**Live Demo:** [Animal Adoption](https://yshti.github.io/Group_Project_JS_Animal_Adoption/)
 
 **Highlights:**
 - Built with **HTML, CSS, and JavaScript**
