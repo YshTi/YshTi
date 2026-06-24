@@ -91,6 +91,8 @@ The project includes reusable UI components, adaptive navigation, a modal contac
 A web application focused on animal adoption, built as a JavaScript team project.  
 The project includes interactive UI components, structured application logic, and responsive design to provide a smooth user experience.
 
+**Live Demo:** [Animal Adoption]([https://state-authorities-app-1.onrender.com/](https://yshti.github.io/Group_Project_JS_Animal_Adoption/))
+
 **Highlights:**
 - Built with **HTML, CSS, and JavaScript**
 - Interactive and user-friendly interface
@@ -103,6 +105,8 @@ The project includes interactive UI components, structured application logic, an
 ### [Coffee Shop](https://github.com/YshTi/Coffe-Shop-Website)
 A responsive team project for a coffee shop website, created with attention to clean layout, visual presentation, and usability.  
 This project reflects collaborative frontend development and implementation of modern web design principles.
+
+**Live Demo:** [Coffe Shop](https://yshti.github.io/Coffe-Shop-Website/)
 
 **Highlights:**
 - Built with **HTML, CSS, and JavaScript**
