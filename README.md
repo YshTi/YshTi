@@ -32,6 +32,61 @@ My background in research helped me develop strong problem-solving skills, struc
 
 ## 💻 Featured Projects
 
+### [State Authorities App](https://github.com/YshTi/state-authorities-app)
+A production-ready fullstack platform for organizing state authority data and supporting administrative data management.  
+The project was developed during the Kharkiv IT Cluster Bootcamp 2026 and includes frontend, backend, admin panel functionality, CRUD operations, and CSV import/export features.
+
+**Live Demo:** [State Authorities App](https://state-authorities-app-1.onrender.com/)
+
+**Highlights:**
+- Built with **React, TypeScript, Vite, Node.js, Express.js, Prisma, and PostgreSQL**
+- Worked as **Frontend Team Lead**
+- Coordinated frontend tasks and reviewed code
+- Collaborated closely with the backend team lead
+- Connected the admin panel to backend APIs
+- Implemented full **CRUD functionality** for institutions
+- Added **CSV import/export** support
+- Tested backend integration and refined UI/UX for key pages and modal windows
+
+---
+
+### [Evoplay Client Landing Page](https://github.com/YshTi/STP-12934)
+A real client frontend project completed as a team under mentor review and accepted by the customer.  
+The project was developed from a Figma design and focused on responsive layout, accurate visual implementation, interactive UI behavior, and production-ready build delivery.
+
+**Live Demo:** [Evoplay Landing Page](https://yshti.github.io/STP-12934/)
+
+**Highlights:**
+- Built with **Vite, HTML5, CSS3, JavaScript, and Swiper.js**
+- Worked as **Team Lead / Frontend Developer**
+- Participated in a real client order completed under mentor supervision
+- Split responsibilities between developers and coordinated team workflow
+- Communicated with the project mentor during development
+- Organized meetings with the designer to clarify the Figma concept
+- Implemented a significant part of the page design
+- Added hover, focus, and interactive UI improvements
+- Prepared the project for build delivery and portfolio publication
+- Practiced professional team collaboration using **Git/GitHub**
+
+---
+
+### [Business Promotion Fullstack Website](https://github.com/YshTi/Business-promotion-fullstack)
+A responsive SaaS-style promotional website built with React, TypeScript, and a Node.js backend.  
+The project includes reusable UI components, adaptive navigation, a modal contact form, and MongoDB-backed contact and feedback functionality.
+
+**Live Demo:** [Business Promotion Fullstack Website](https://business-promotion-fullstack.vercel.app/)
+
+**Highlights:**
+- Built with **React, TypeScript, Vite, Node.js, Express.js, MongoDB Atlas, and Mongoose**
+- Developed reusable and responsive frontend components
+- Implemented adaptive navigation and interactive UI behavior
+- Added modal contact form functionality
+- Integrated MongoDB-backed contact and feedback features
+- Configured production deployment with **Vercel**
+- Worked with **CSS Modules, Swiper.js, Git, GitHub, and Figma**
+
+---
+
 ### [Animal Adoption](https://github.com/YshTi/Group_Project_JS_Animal_Adoption)
 A web application focused on animal adoption, built as a JavaScript team project.  
 The project includes interactive UI components, structured application logic, and responsive design to provide a smooth user experience.
