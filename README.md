@@ -32,6 +32,54 @@ My background in research helped me develop strong problem-solving skills, struc
 
 ## 💻 Featured Projects
 
+### [Nature Travel Full-Stack Web Platform](https://github.com/YshTi/project-TerraCode_FE)
+
+A full-stack travel platform for discovering destinations, sharing travel experiences, and managing user profiles and travel stories.
+The project was developed as a team project with separate frontend and backend applications, responsive UI, authentication, validation, REST API integration, and production deployment.
+
+**Live Demo:** [Nature Travel Platform](https://project-terra-code-fe.vercel.app/)
+
+**Highlights:**
+
+* Built with **Next.js, React, TypeScript, CSS Modules, TanStack React Query, Axios, Formik, Yup, Node.js, Express.js, MongoDB, and Mongoose**
+* Worked as **Full-Stack Team Lead**
+* Led the development workflow and distributed tasks across the team
+* Reviewed code and supported developers during implementation
+* Coordinated collaboration between **frontend, backend, and QA**
+* Developed responsive interfaces and reusable React components
+* Implemented authentication and user profile flows
+* Built travel-story creation and management functionality
+* Integrated frontend features with REST APIs
+* Implemented validation and error handling across frontend and backend
+* Participated in deployment and production integration
+
+---
+
+### [Task Manager — Full-Stack TODO Application](https://github.com/YshTi/Notebook_Mongo)
+
+A production-ready full-stack task management application with an interactive public workspace and secure private dashboards for registered users.
+The application includes authentication, email verification, task management, filtering and sorting, automated API tests, and a MongoDB-backed REST API.
+
+**Live Demo:** [Task Manager](https://notebook-mongo.vercel.app/)
+
+**Highlights:**
+
+* Built with **Next.js, React, TypeScript, Node.js, Express.js, MongoDB, and Mongoose**
+* Implemented separate **public guest and private authenticated workspaces**
+* Added task creation, editing, completion tracking, priorities, deadlines, search, sorting, and filtering
+* Implemented secure authentication using **JWT, HttpOnly cookies, and bcryptjs**
+* Added account **email verification with the Brevo API**
+* Protected private user data through user-scoped backend resources
+* Implemented responsive **Light/Dark themes** using CSS Modules and CSS custom properties
+* Added UI animations and transitions using **Framer Motion**
+* Designed MongoDB/Mongoose schemas for users, tasks, and automatic sequential IDs
+* Implemented backend validation, authentication guards, and structured error handling
+* Created automated integration and regression tests using **mongodb-memory-server**
+* Covered **29 API scenarios**, including authentication, validation, task lifecycle behavior, and guest/private data isolation
+* Deployed the frontend on **Vercel** and backend API on **Render**
+
+---
+
 ### [State Authorities App](https://github.com/YshTi/state-authorities-app)
 A production-ready fullstack platform for organizing state authority data and supporting administrative data management.  
 The project was developed during the Kharkiv IT Cluster Bootcamp 2026 and includes frontend, backend, admin panel functionality, CRUD operations, and CSV import/export features.
